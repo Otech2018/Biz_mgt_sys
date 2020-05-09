@@ -1,0 +1,48 @@
+[13-Mar-2020 04:22:17 Etc/GMT] PHP Notice:  Undefined index: extraHDD in /home/chotayac/public_html/laptop/admin/add_stock.php on line 65
+[13-Mar-2020 04:22:17 Etc/GMT] PHP Notice:  Undefined index: extraHDDtype in /home/chotayac/public_html/laptop/admin/add_stock.php on line 66
+[13-Mar-2020 04:26:32 Etc/GMT] PHP Catchable fatal error:  Object of class run_query could not be converted to string in /home/chotayac/public_html/laptop/admin/add_customer.php on line 214
+[13-Mar-2020 05:15:35 Etc/GMT] PHP Notice:  Undefined index: user_id in /home/chotayac/public_html/laptop/script/php/header_admin.php on line 153
+[13-Mar-2020 05:15:35 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/script/php/header_admin.php on line 157
+[13-Mar-2020 05:15:35 Etc/GMT] PHP Notice:  Undefined variable: user_location in /home/chotayac/public_html/laptop/script/php/header_admin.php on line 160
+[13-Mar-2020 05:15:35 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/script/php/header_admin.php on line 164
+[13-Mar-2020 05:15:35 Etc/GMT] PHP Notice:  Undefined variable: user_permission in /home/chotayac/public_html/laptop/script/php/header_admin.php on line 167
+[13-Mar-2020 05:15:35 Etc/GMT] PHP Notice:  Undefined variable: user_username in /home/chotayac/public_html/laptop/script/php/header_admin.php on line 172
+[13-Mar-2020 05:15:35 Etc/GMT] PHP Notice:  Undefined variable: user_location2 in /home/chotayac/public_html/laptop/script/php/header_admin.php on line 172
+[13-Mar-2020 05:17:42 Etc/GMT] PHP Catchable fatal error:  Object of class run_query could not be converted to string in /home/chotayac/public_html/laptop/admin/add_customer.php on line 214
+[13-Mar-2020 05:29:07 Etc/GMT] PHP Notice:  Undefined index: extraHDD in /home/chotayac/public_html/laptop/admin/add_stock.php on line 65
+[13-Mar-2020 05:29:07 Etc/GMT] PHP Notice:  Undefined index: extraHDDtype in /home/chotayac/public_html/laptop/admin/add_stock.php on line 66
+[13-Mar-2020 05:30:26 Etc/GMT] PHP Notice:  Undefined index: extraHDD in /home/chotayac/public_html/laptop/admin/add_stock.php on line 65
+[13-Mar-2020 05:30:26 Etc/GMT] PHP Notice:  Undefined index: extraHDDtype in /home/chotayac/public_html/laptop/admin/add_stock.php on line 66
+[13-Mar-2020 07:11:36 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/spy.php on line 166
+[13-Mar-2020 07:15:37 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/all_payment.php on line 157
+[13-Mar-2020 07:15:37 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/all_payment.php on line 161
+[13-Mar-2020 07:15:37 Etc/GMT] PHP Notice:  A non well formed numeric value encountered in /home/chotayac/public_html/laptop/admin/all_payment.php on line 174
+[13-Mar-2020 07:15:37 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/all_payment.php on line 157
+[13-Mar-2020 07:15:37 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/all_payment.php on line 161
+[13-Mar-2020 07:15:37 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/all_payment.php on line 157
+[13-Mar-2020 07:15:37 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/all_payment.php on line 161
+[13-Mar-2020 07:17:40 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/all_payment.php on line 157
+[13-Mar-2020 07:17:40 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/all_payment.php on line 161
+[13-Mar-2020 07:17:40 Etc/GMT] PHP Notice:  A non well formed numeric value encountered in /home/chotayac/public_html/laptop/admin/all_payment.php on line 174
+[13-Mar-2020 07:17:40 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/all_payment.php on line 157
+[13-Mar-2020 07:17:40 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/all_payment.php on line 161
+[13-Mar-2020 07:17:40 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/all_payment.php on line 157
+[13-Mar-2020 07:17:40 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/all_payment.php on line 161
+[13-Mar-2020 07:17:47 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/all_payment.php on line 157
+[13-Mar-2020 07:17:47 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/all_payment.php on line 161
+[13-Mar-2020 07:17:47 Etc/GMT] PHP Notice:  A non well formed numeric value encountered in /home/chotayac/public_html/laptop/admin/all_payment.php on line 174
+[13-Mar-2020 07:17:47 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/all_payment.php on line 157
+[13-Mar-2020 07:17:47 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/all_payment.php on line 161
+[13-Mar-2020 07:17:47 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/all_payment.php on line 157
+[13-Mar-2020 07:17:47 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/admin/all_payment.php on line 161
+[13-Mar-2020 09:49:58 Etc/GMT] PHP Notice:  Undefined index: user_id in /home/chotayac/public_html/laptop/script/php/header_admin.php on line 153
+[13-Mar-2020 09:49:58 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/script/php/header_admin.php on line 157
+[13-Mar-2020 09:49:58 Etc/GMT] PHP Notice:  Undefined variable: user_location in /home/chotayac/public_html/laptop/script/php/header_admin.php on line 160
+[13-Mar-2020 09:49:58 Etc/GMT] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/chotayac/public_html/laptop/script/php/header_admin.php on line 164
+[13-Mar-2020 09:49:58 Etc/GMT] PHP Notice:  Undefined variable: user_permission in /home/chotayac/public_html/laptop/script/php/header_admin.php on line 167
+[13-Mar-2020 09:49:58 Etc/GMT] PHP Notice:  Undefined variable: user_username in /home/chotayac/public_html/laptop/script/php/header_admin.php on line 172
+[13-Mar-2020 09:49:58 Etc/GMT] PHP Notice:  Undefined variable: user_location2 in /home/chotayac/public_html/laptop/script/php/header_admin.php on line 172
+[13-Mar-2020 09:52:24 Etc/GMT] PHP Catchable fatal error:  Object of class run_query could not be converted to string in /home/chotayac/public_html/laptop/admin/add_customer.php on line 203
+[13-Mar-2020 09:52:55 Etc/GMT] PHP Catchable fatal error:  Object of class run_query could not be converted to string in /home/chotayac/public_html/laptop/admin/add_customer.php on line 203
+[14-Mar-2020 04:44:02 Etc/GMT] PHP Notice:  Undefined index: extraHDD in /home/chotayac/public_html/laptop/admin/add_stock.php on line 65
+[14-Mar-2020 04:44:02 Etc/GMT] PHP Notice:  Undefined index: extraHDDtype in /home/chotayac/public_html/laptop/admin/add_stock.php on line 66

@@ -1,0 +1,27 @@
+
+
+stock
+
+0 = deleted
+1 = sold
+2 = not for sale
+3 = for sale
+4 = on transit
+
+customer
+0 = deleted
+1 = buy stuff on credit
+2 = no credit
+
+
+154 FOR LAPTOP
+
+===================
+USER CAN SELL WHAT IS IN THIER LOCATION ONLY
+
+
+					<option value="0">delete</option>
+					<option value="1">ADMIN</option>
+				  <option value="2">STORE KEEPER</option>
+				  <option value="3">SALES PERSON</option>
+				

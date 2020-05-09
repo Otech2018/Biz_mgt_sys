@@ -1,0 +1,6 @@
+[12-Mar-2020 21:02:00 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/chotayac/public_html/laptop/script/php/connect.php:25
+Stack trace:
+#0 /home/chotayac/public_html/laptop/script/php/connect.php(25): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/chotayac/public_html/laptop/home/index.php(11): run_query->__construct('SELECT * from u...')
+#2 {main}
+  thrown in /home/chotayac/public_html/laptop/script/php/connect.php on line 25
